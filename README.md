@@ -1,4 +1,4 @@
-# 🏖️ Sistema de Monitoreo
+# 📡 Sistema de Monitoreo
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
 ![API REST](https://img.shields.io/badge/API-REST-blue)
